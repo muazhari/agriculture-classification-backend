@@ -1,0 +1,10 @@
+aiohttp
+fastapi
+pydantic
+pytest
+SQLAlchemy
+sqlmodel
+psycopg2
+pytest-asyncio
+autogluon
+uvicorn
