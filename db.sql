@@ -1,3 +1,8 @@
+drop database if exists "agriculture-classification";
+create database "agriculture-classification";
+\c "agriculture-classification";
+
+-- create tables
 drop table if exists "image" cascade;
 create table if not exists "image"
 (
